@@ -33,7 +33,7 @@ p {
   justify-content: center;
   align-items: center;
   padding-top: 2%;
-  display: flex;
+  display: block;
 }
 
 ._w-content {
@@ -332,7 +332,7 @@ p {
   perspective: 1000px;
   justify-content: center;
   align-items: center;
-  display: flex;
+  display: block;
 }
 
 ._w-card-front {
@@ -689,11 +689,11 @@ p {
   overflow-wrap: normal;
   mix-blend-mode: exclusion;
   padding-left: 0;
-  padding-right: 0;
+  padding-right: 85px;
   font-family: Nimbussanl Reg, sans-serif;
-  font-size: .95em;
+  font-size: .6em;
   font-weight: 400;
-  line-height: 1.1em;
+  line-height: 1.4em;
   display: block;
 }
 
@@ -843,7 +843,7 @@ p {
   align-items: flex-start;
   padding: 20px 10px;
   font-family: Nimbussanl Reg, sans-serif;
-  font-size: 3rem;
+  font-size: 3.3rem;
   font-weight: 400;
   line-height: 1em;
   display: flex;
